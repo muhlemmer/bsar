@@ -1,2 +1,2 @@
-# gobup
-Go Backup Utility
+# bsar
+Backup, search and resque.
